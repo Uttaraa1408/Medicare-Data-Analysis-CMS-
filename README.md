@@ -78,6 +78,6 @@ Excel & Microsoft Access (data preparation)
 
 ### Repository Contents
 
-Power BI (.pbix) – Interactive dashboards
+Power BI (.pbix) - Interactive dashboards
 
-Cleaned CMS Dataset – Hospital-level data used for analysis
+Cleaned CMS Dataset - Hospital-level data used for analysis
